@@ -27,11 +27,11 @@ version = "0.2.7"
 features = ["unproven"]
 
 [dependencies.gd32vf103-pac]
-git = "https://github.com/katyo/gd32vf103-pac"
+git = "https://github.com/trinami/gd32vf103-pac"
 branch = "upcoming"
 
 [dependencies.synopsys-usb-otg]
-git = "https://github.com/katyo/synopsys-usb-otg"
+git = "https://github.com/trinami/synopsys-usb-otg"
 branch = "gd32v-ng-cs"
 features = ["fs"]
 optional = true
